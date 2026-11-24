@@ -1,3 +1,12 @@
+# as-webrtc
+
+Ansible Messenger — библиотека WebRTC для аудио- и видеосвязи.
+
+> [!NOTE]
+> **Происхождение кода.** Форк [ali-fareed/webrtc](https://github.com/ali-fareed/webrtc), который сопровождает проект Ansible Messenger. Сведения об авторах и лицензиях приведены в исходной документации.
+
+## Документация исходного проекта
+
 **WebRTC is a free, open software project** that provides browsers and mobile
 applications with Real-Time Communications (RTC) capabilities via simple APIs.
 The WebRTC components have been optimized to best serve this purpose.
